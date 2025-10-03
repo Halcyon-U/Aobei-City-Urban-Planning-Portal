@@ -26,11 +26,37 @@
 ## 計画目的
 
 # 関連計画
-本計画の関連計画について、市域の四方を囲む高速道路については県告示第01K6N3CXY9DVDTV9WG7D5N2HK3号「豊嶼連絡高速道路整備計画」、南方及び西方の鉄道路線については鉄総貨第01K6N3KHH5D2W2MYTH92G43FY0号「澳豊貨物線基本計画」を参照。
+本計画の関連計画について、計画区域の四方を囲む高速道路については県告示第01K6N3CXY9DVDTV9WG7D5N2HK3号「豊嶼連絡高速道路整備計画」、計画区域の南部及び西部の鉄道路線については鉄総貨第01K6N3KHH5D2W2MYTH92G43FY0号「澳豊貨物線基本計画」を参照。
 
 # 現状分析
 
 ## 自然環境
+### 水資源
+計画区域においては西部から南方にかけて川が流れており、西部のポンプ場が澳北市の水源となっています。他方、南部の排水管からは澳北市の生活・工業排水が排水されているものの、排水は未浄化の状態で排水されており、澳北市南方への汚染が深刻な問題となっています。
+
+|水資源情報|
+|:-:|
+| ![Water.jpg](../Image/Water.jpg) |
+
+### 天然資源
+計画区域においては北西部、並びに南部を中心に疎らに森林資源が分布しており、その利用可能な資源量は週9,482トンであると見込まれます。
+
+また、北東辺縁部には5ヘクタールの肥沃地が存在しますが、現状では工業地区として利用しているほか、市境を跨いでいることから現状農地としての利用はできていない状況です。
+
+|天然資源情報|
+| :-: |
+| <table><thead><tr><th style="text-align:center;">資源種別</th><th style="text-align:right;">利用可能資源量</th><th style="text-align:right;">開発済資源量</th></tr></thead><tbody><tr><td style="text-align:center;">原油<br>鉱石<br>森林資源<br>肥沃地</td><td style="text-align:right;">0  t<br>0  t<br>週 9,482  t<br>5 ha</td><td style="text-align:right;">0  t<br>0  t<br>週 0  t<br>0 ha</td></tr></tbody></table> |
+| ![NaturalResorce.jpg](../Image/NaturalResorce.jpg)<br>![NaturalResorce_Data.jpg](../Image/NaturalResorce_Data.jpg) |
+
+| 資源種別 | 利用可能資源量 | 開発済資源量 |
+| :-: | -: | -: |
+| 原油<br>鉱石<br>森林資源<br>肥沃地 | 0  t<br>0  t<br>週 9482  t<br>5 ha | 0  t<br>0  t<br>週 0  t<br>0 ha |
+
+### 地形
+計画区域においては全般的に平坦ですが、中央からやや北部、並びに北西辺縁部に若干標高の高い地域が見られます。
+|標高情報|
+|:-:|
+| ![Elevation.jpg](../Image/Elevation.jpg)<br>![Elevation_Legend.jpg](../Image/Elevation_Legend.jpg) |
 
 ## 人口
 
