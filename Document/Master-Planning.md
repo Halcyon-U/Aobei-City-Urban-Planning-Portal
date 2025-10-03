@@ -47,9 +47,11 @@
 | <table><thead><tr><th style="text-align:center;">資源種別</th><th style="text-align:right;">利用可能資源量</th><th style="text-align:right;">開発済資源量</th></tr></thead><tbody><tr><td style="text-align:center;">原油<br>鉱石<br>森林資源<br>肥沃地</td><td style="text-align:right;">0  t<br>0  t<br>週 9,482  t<br>5 ha</td><td style="text-align:right;">0  t<br>0  t<br>週 0  t<br>0 ha</td></tr></tbody></table> |
 | ![NaturalResorce.jpg](../Image/NaturalResorce.jpg)<br>![NaturalResorce_Data.jpg](../Image/NaturalResorce_Data.jpg) |
 
+<!-- html化してテーブル内に埋め込み、ネスト化
 | 資源種別 | 利用可能資源量 | 開発済資源量 |
 | :-: | -: | -: |
 | 原油<br>鉱石<br>森林資源<br>肥沃地 | 0  t<br>0  t<br>週 9482  t<br>5 ha | 0  t<br>0  t<br>週 0  t<br>0 ha |
+-->
 
 ### 地形
 計画区域においては全般的に平坦ですが、中央からやや北部、並びに北西辺縁部に若干標高の高い地域が見られます。
