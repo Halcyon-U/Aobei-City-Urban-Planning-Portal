@@ -114,6 +114,11 @@
 | ![Waste.jpg](../Image/Waste.jpg)<br>![Waste_Data.jpg](../Image/Waste_Data.jpg) |
 
 ## 交通
+計画区域においては平均交通量が95%、基本的に良好な交通環境を維持していますが、澳北IC及び北部工業区沿いでは渋滞が散見され、また澳北ICから南下する路線においても渋滞の兆候が見られます。
+
+|交通情報|
+|:-:|
+| ![Traffic.jpg](../Image/Traffic.jpg)<br>![Traffic_Legend.jpg](../Image/Traffic_Legend.jpg) |
 
 # 計画構想
 
