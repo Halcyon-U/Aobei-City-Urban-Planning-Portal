@@ -177,7 +177,7 @@ xychart
 |:-:|
 | ![Waste.jpg](../Image/Waste.jpg)<br>![Waste_Data.jpg](../Image/Waste_Data.jpg) |
 
-また、統計開始時からのゴミ埋立地の許容量、貯蔵量の推移は以下の通りです。
+また、統計開始時からのゴミ埋立地の許容量、貯蔵量、週排出量の推移は以下の通りです。
 
 ```mermaid
 
@@ -187,19 +187,20 @@ config:
         showDataLabel: true
     themeVariables:
         xyChart:
-            plotColorPalette: '#5b4c45, #a26cff'
+            plotColorPalette: '#5b4c45, #a26cff, #a19600'
 ---
 
 xychart
-    title "ゴミ埋立地許容量、貯蔵量(2027~2028)"
+    title "ゴミ埋立地許容量、貯蔵量、週排出量"
     x-axis ["2027", "2028"]
     y-axis "個数" 0 --> 20000000
     bar [8000000, 16000000]
     line[4720000, 10960000]
+    line[105888, 109984]
 
 ```
 
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUD1v2zAQ_SvEZUgLSIbIyObH0MUZO3TKEDMDLVG2AIo0aAq1Yzgo2qGDgXbqnDEFumTIlp8TJEH-RfSVokDfQNzdu_fueDvIXK5BQBzH0mbOFuVCSIsabLbTpfJhyFqsl-7zqQrqo5prI1Dwte7JsNSVPlO-VHOj1_8o_vdosTIuTJ1x_pMyOgQt0PHReJ5m6ThCR4pMsqI4lrbbSNrNNmsthkFlMBpJePh69_Dt-vH68Pzn8PL959OP38839-9IQuhV87D3EoY_xGpTrtFMQstJiFAXMQkXfcO2b5Dw-OXw9OtWAkpQHH9AJOnRd82VRzPWVyKEJ300WJjS6llKyUAmvKMvIIKFL3MQ7ZkiqLSvVJvCrpVJ6G4mQTRhrgtVm9AuvW9kK2XPnavelN7ViyWIQpl1k9WrXAV9WqqFV9Xfqtc2137qahtAYJ7yzgXEDjYgKB5xyhPCOcWM4jSCLQh-MuKMcMo4JTydnOB9BJfd1GREkzHGCeaEcMYYJ_tXyNanOA?type=png)
+[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplULuO00AU_ZXR3WIbOxqPX2MXNNmSgoqCzBYTe5xYGnuiyVgkRJECFFtEAglBh7Qt0krLLoJi93ciL9m_wC8Qgludc8-95z42kKhUQAy2bbMyUWWWz2JWoiZW6_GcazOwNpZz9fKMG_6UT4WMkdGV6EUzF4V4znXOp1Is_-r436ONhVRmrKTSz7gUxogYnZ74Uy_xfAudcBIkWdYCJwowPmVltxorV-uk9Rom5kYKxODw5vvh7WV9uf95ta8_3xy_3NbXd48X7w-718dvX48ff_T4cXf78O5DfXHfUAbDfTZf5Us0YUAwCRlYqEOUwXlfsO4LGNS7_cOnGwYII9t-ggjuo6-aco0mtM9YyAl6NFjIvBQTLySDiKPgX9HBPqW00yLqnYMFM52nELfPtaAQuuAthU3bw6D7NIO4ganIeCVNe862aVvw8oVSxe9OrarZHOKMy2XDqkXKjTjL-Uzz4k9WizIVeqyq0kBMfL8zgXgDq4Y6oyCIHM91XRqEzWqNum7SdBR5JCDYdSJKfJeGWwtedXPxiGKHhGHghD4hYeR521_n8cI8?type=png)
 
 ### 交通
 計画区域においては平均交通量が95%、基本的に良好な交通環境を維持していますが、澳北IC及び北部工業区沿いでは渋滞が散見され、また澳北ICから南下する路線においても渋滞の兆候が見られます。
