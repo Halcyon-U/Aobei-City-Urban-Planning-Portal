@@ -101,6 +101,47 @@ xychart
 
 ```
 
+``` mermaid
+
+---
+config:
+    xyChart:
+        chartOrientation: 'horizontal'
+        showDataLabel: true
+    themeVariables:
+        xyChart:
+            plotColorPalette: '#818f9f'
+---
+
+xychart
+    title "人口ピラミッド(2028年)"
+    x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
+    y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
+    bar [1029, 2380, 1415, 836, 772]
+
+```
+
+``` mermaid
+
+---
+config:
+    xyChart:
+        chartOrientation: 'horizontal'
+        showDataLabel: true
+    themeVariables:
+        xyChart:
+            plotColorPalette: '#818f9f'
+---
+
+xychart
+    title "人口ピラミッド(2029年)"
+    x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
+    y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
+    bar [717, 1354, 1434, 3186, 1274]
+
+```
+
+
 [グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkE1v00AQhv_Kaji0SHa0tuuP-MAlPSLBiQN1D5t4nVhyvNFmLZJGkZpY0IYItQdQDz0gAeXjAKoACRoQf2bjtj-DdZwCEnNYzbs77zMzO4IWCyn4oOt6kLZYGsVtP0iRisGw0SFcrFUZrVLf4zFNBRExS3200WE83mNKJxt_6_od9mibCHKXNGniI8EzWj2KDu3SB4THpJnQ_j_k_3uV0UuYaLCE8fskoUJQ1e-WZ3hRPVLNVgMH6WC4mmrNj0VCUQDLxaI4ei3z5zL_IPOXMs9lPts0sekWF19vB7BeUCeDuI92ApDTbzKfy-mrADRlL968U4Qqv56fXe8_rnKZP5FThf0p8y_ryo_Hy1-nAexWxGFFvBlgs5h9Lo4P5UShZ1efToqDhdyfFOdHly_Or6YXyx9ny-_z4vBATp9ePnsvJ2_VaAgjXb-DbIxxxWwSjnYsx9CQUceuhurYXB9btrELGrR5HIJffrIGXcq7pJQwKt0BrH48AF-lIY1Ilohy-7Gy9Uj6kLHujZOzrN0BPyJJX6msFxJBt2PS5qT755bTNKS8wbJUgG9YKwb4IxiA79g1z3A80zMxdlzHMDQYqhq3XvOw7VieY6vccM2xBnurrrhme6oOW6ZpmVum67nj33Cr64E?type=png)
 
 また、統計開始時からの人口の推移は以下の通りです。
@@ -116,15 +157,15 @@ config:
 ---
 
 xychart
-    title "人口推移(2027~2028)"
-    x-axis ["2027", "2028"]
+    title "人口推移(2027~2029)"
+    x-axis ["2027", "2028", "2029"]
     y-axis "人口(世代毎の人口は割合から算出、小数点以下切り捨て)" 0 --> 10000
-    bar [4514, 6435]
-    line[361, 1029]
-    line[1907, 2380]
-    line[902, 1415]
-    line[902, 836]
-    line[451, 772]
+    bar [4514, 6435, 7967]
+    line[361, 1029, 717]
+    line[1907, 2380, 1354]
+    line[902, 1415, 1434]
+    line[902, 836, 3186]
+    line[451, 772, 1274]
 
 ```
 
@@ -187,16 +228,17 @@ config:
         showDataLabel: true
     themeVariables:
         xyChart:
-            plotColorPalette: '#5b4c45, #a26cff, #a19600'
+            plotColorPalette: '#5b4c45, #a26cff, #a19600, #ec510c'
 ---
 
 xychart
-    title "ゴミ埋立地許容量、貯蔵量、週排出量"
-    x-axis ["2027", "2028"]
-    y-axis "個数" 0 --> 20000000
-    bar [8000000, 16000000]
-    line[4720000, 10960000]
-    line[105888, 109984]
+    title "ゴミ埋立地許容量、貯蔵量、週排出量、週焼却量"
+    x-axis ["2027", "2028", "2029"]
+    y-axis "個数" 0 --> 30000000
+    bar [8000000, 16000000, 24000000]
+    line[4720000, 10960000, 15546600]
+    line[105888, 109984, 150240]
+    line[0, 0, 60000]
 
 ```
 
