@@ -1,6 +1,11 @@
 # 澳北市都市計画ポータル
 澳北市都市計画に関する情報ポータルです。都市計画書をはじめ、各種資料をご覧いただけます。
 
+という体で公開中の、Cities: Skylines配信用に制作している都市計画書です。配信は以下の画像リンクからチェック！
+|#1|#2|#3|
+|:-:|:-:|:-:|
+|[![【まずは】Cities: Skylines【無計画に】 #1](/Image/09_銀丹市糧食ハム社_【まずは】CitiesSkylines【無計画に】1.png)](https://www.youtube.com/watch?v=opkUPCgDznk)|[![【課題を】CitiesSkylines【探せ】 #2](/Image/10_銀丹市糧食ハム社_【課題を】CitiesSkylines【探せ】2.png)](https://www.youtube.com/watch?v=F_fiKWD1bkQ)|[![【計画とは】CitiesSkylines【破綻するもの】 #3](/Image/11_銀丹市糧食ハム社_【計画とは】CitiesSkylines【破綻するもの】3.png)](https://www.youtube.com/watch?v=hqdDLUMpKNU&pp=0gcJCfwJAYcqIYzv)|
+
 ## 現在施工中の都市計画
 - [澳北市都市計画主要計画](/Document/Master-Planning.md)
 
