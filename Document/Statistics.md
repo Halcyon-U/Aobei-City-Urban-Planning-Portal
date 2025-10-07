@@ -100,6 +100,12 @@ xychart
     line[451, 772, 1274]
 
 ```
+> **凡例**  
+> 青緑: シニア  
+> 赤: 大人  
+> 青紫: 若者  
+> 黄緑: ティーン  
+> 黃: 子供  
 
 <!--グラフを更新したら画像の更新も忘れずに！-->
 [グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUr1u2zAQfhXiMiQFJIOUKFHU0MUZO3TqUCsDbVG2AFkyZBm1a7iovSRpkKRL2wcI2mZKgk6p_Tiy7NcoaTuBi9xAfHcfv_sjx9DKQgk-mKYZpK0sjeK2H6RI2XBU74i82Hna-p3sw7EoxBvRlImPinwgt2TRkV35TuSxaCayv6d4mUNbL8mKepZk-VuRyKKQPjo88IgX8chAB6TVlFwq4IVYmQaEy9BRgLfCkDIFoqhpOfZhkG66DtLhqKXL7JqJi0SiAJbzeXV9s7q6Xf9eHFnYYp_UwV8FsBvPFMO4jxoBaC4AA22Q94x4ACfbq6Pt1aeUR8vH78vFzer-qpzebUPl9L46_1N9PSunF-XsfH33ozqdl5-n1cP16tvDevZ3ufi5fLyozk7L2ZfV5W05_aUaQRiZ5mtE9JzbSk2RowZ1CDWQS201M-Mu23WRxKls2C4xlMDiiiL_MYRjtRrL9tTKiO3QfY5jSwUpcfRpv6Q82zWQTTx3n1FtqCJMKy1GT8CAdh6H4OtnN6Ar867QLoy1JoDNHwjAVzCUkRgkhd70RMl6In2fZd0nZZ4N2h3wI5H0lTfohaKQx7Fo56L7HM1lGsq8ng3SAnzX2uQAfwxD8Cm2a5hh6jiYuMymngEj8IlNai7xsEUoJa6HKZsY8HFTFdcYxRZm3MOEuBbhbPIPnCv02Q?type=png)
