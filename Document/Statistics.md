@@ -1,81 +1,37 @@
 # 澳北市統計データ
 ## 財政
-<!-- ### 収入の部
+### 収入の部
 
-住宅区 14761.60
-商業区 8620.06
-工業区 3520.10
-オフィス区画 0
-公共交通機関 226.00
-通行料 0
+|年|住宅区|商業区|工業区|特区|オフィス区画|公共交通機関|通行料|
+|:-:|-:|-:|-:|-:|-:|-:|-:|
+|2030|25677.20|12754.51|2172.50|1153.79|0|654.00|0|
+|2029|14761.60|8620.06|3520.10|N/A|0|226.00|0|
 
-```mermaid
+> 週あたりの収入。2029年は「工業区」の値が「特区」を含む。
 
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#00fe25', 'pie2': '#00befe', 'pie3': '#fee200', 'pie4': '#02fbfd', 'pie5': '#627024', 'pie6': '#62757c'}}}%%
+### 支出の部
+|年|電力|上下水道|ゴミ|健康管理|消防|警察|教育|公園と広場|ユニーク施設|バス|地下鉄|鉄道|船|飛行機|
+|:-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|
+|2030|3170.40|1253.84|10400.00|2260.00|2560.00|960.00|5040.00|112.00|0|779.84|0|0|0|0|
+|2029|4130.40|1231.28|2880.00|1660.00|2560.00|960.00|3920.00|72.00|0|549.00|0|0|0|0|
+> 週あたりの収入。
 
-pie title 収入の部
-    "住宅区" : 25677.20
-    "商業区" : 12754.51
-    "工業区" : 3326.47
-    "オフィス区画" : 0
-    "公共交通機関" : 654.00
-    "通行料" : 0
+### 財政バランス
 
-```
--->
-
-<!-- ### 支出の部
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#204094', 'pie2': '#10b7f5', 'pie3': '#5b4c45', 'pie4': '#f0150d', 'pie5': '#fcc44e', 'pie6': '#ad6302', 'pie7': '#ecdec7', 'pie8': '#6ca336', 'pie9': '#526c72', 'pie10': '#84914c'}}}%%
-
-pie title 支出の部
-    "電力" : 3170.40
-    "上下水道" : 1253.84
-    "ゴミ" : 10400.00
-    "健康管理" : 2260.00
-    "消防" : 2560.00
-    "警察" : 960.00
-    "教育" : 5040.00
-    "公園と広場" : 112.00
-    "ユニーク施設" : 0
-    "公共交通機関" : 779.84
-```
-
-電力 4130.40
-上下水道 1231.28
-ゴミ 2880.00
-健康管理 1660.00
-消防 2560.00
-警察 960.00
-教育 3920.00
-公園と広場 72.00
-ユニーク施設 0
-バス 549.00
-地下鉄 0
-鉄道 0
-船 0
-飛行機 0
-
--->
-<h3>2030年</h3>
-
-|収入の部|支出の部|
-|:-:|:-:|
-|[![](https://mermaid.ink/img/pako:eNpNkEGL00AYhv_K8EnJJYTJZDLTnav-Bg-Sy3TzpRtokpImoIaAdqmnxb24C3oRXQsquwuexBV_TTbV_gunaVKd08zzvO_3wVRwnIUICkajKk7jQpHKKk4wQUsRa6IXaNlkDx7rPNaTGS6MqYg1j9HdZR5QGiHzdzGDWI8mGGGPvA5FiIzSHvF9ikWTKOyR3yHBJGW8R2JAvjy26roejYI0SI0gRVzMkLTnr9vVunl5uz39HKTEnADuf523t6v27C4AogjzhZQOo4NtL15t1jeDdc1k7vjuwX5f_2c9jwmHy0E2y6_N6UWzvGqWP0zk95ufXerf6NV1u_p2f_dp--Ld5sv77eXHzguzgR5Cxv35cLa5fLvvgg3TPA5BFXmJNiSYJ3r3hGpXCKD79gCUuYYY6XJWBBCktanNdfoky5KhmWfl9ARUpGcL8yrnoS7wUaynuU4ONMc0xPxhVqYFKMH8bgioCp6Ccl3pUCEoOxLemPsut-EZKD52xpIfybHrCU9yxmsbnndbqRF-_Rf5TL8d?type=png)](https://mermaid.live/edit#pako:eNpNkEGL00AYhv_K8EnJJYTJZDLTnav-Bg-Sy3TzpRtokpImoIaAdqmnxb24C3oRXQsquwuexBV_TTbV_gunaVKd08zzvO_3wVRwnIUICkajKk7jQpHKKk4wQUsRa6IXaNlkDx7rPNaTGS6MqYg1j9HdZR5QGiHzdzGDWI8mGGGPvA5FiIzSHvF9ikWTKOyR3yHBJGW8R2JAvjy26roejYI0SI0gRVzMkLTnr9vVunl5uz39HKTEnADuf523t6v27C4AogjzhZQOo4NtL15t1jeDdc1k7vjuwX5f_2c9jwmHy0E2y6_N6UWzvGqWP0zk95ufXerf6NV1u_p2f_dp--Ld5sv77eXHzguzgR5Cxv35cLa5fLvvgg3TPA5BFXmJNiSYJ3r3hGpXCKD79gCUuYYY6XJWBBCktanNdfoky5KhmWfl9ARUpGcL8yrnoS7wUaynuU4ONMc0xPxhVqYFKMH8bgioCp6Ccl3pUCEoOxLemPsut-EZKD52xpIfybHrCU9yxmsbnndbqRF-_Rf5TL8d)<br>42412.18/週|[![](https://mermaid.ink/img/pako:eNpVkt2K00AYhm8ljJSclDIzmUx-TvUaPJCcTJNpN9CkJU1BDQHbsCq7J-LP4rrCquhSwd2qFF2qXk2abnMXTifp0uYo8zzv-31JSALcvseBDRqNxA_92FYSNT7gAVdtRW2zIVebSgXus8hn7R4fCpMo6sDnaJO5gyGBFtnEBMISIdg2OnqNNIn0NnHJFhGJOhDp0KuRXiHXJYTXiErEPKpBXCNDIu563DVqZEpEXaZptEZWtRFT19gWEZTMJBYirpqmaaPhhE4ojBL7cY8rq9ez4tkiH1-V2dQJFXE5oDz7UxydOUCxFQ0ZsEXg1iyvj5bXx6vv83L8SnqEda1lkq3PJ_M8O6-M-DywBW-rxfhLsfh9c_Xx5sVTGcCY7vrVr-fl25-V0ffM-vKimFVDrf3Km9P1pKroYtvussNvxfuX-XhaLLLiw7x6IIR3Enl2kWfHefY3n8xWJ__W00sZ2ptw-GO5-Fw-ebf6el6efJLeMCzxuqAJupHvATuORrwJAh4FbHMEyabuAPnfOMAWtx7vsFEvdoATpqI2YOGDfj_YNqP-qHsA7A7rDcVpNPBYzO_5rBux4JZGPPR4dLc_CmNgU2zJIcBOwENgI2S0IKUQW1QziY5IEzwCNjFbpkEsw0Qa1QyCSdoEj-VWKISe_gc0jvmU?type=png)](https://mermaid.live/edit#pako:eNpVkt2K00AYhm8ljJSclDIzmUx-TvUaPJCcTJNpN9CkJU1BDQHbsCq7J-LP4rrCquhSwd2qFF2qXk2abnMXTifp0uYo8zzv-31JSALcvseBDRqNxA_92FYSNT7gAVdtRW2zIVebSgXus8hn7R4fCpMo6sDnaJO5gyGBFtnEBMISIdg2OnqNNIn0NnHJFhGJOhDp0KuRXiHXJYTXiErEPKpBXCNDIu563DVqZEpEXaZptEZWtRFT19gWEZTMJBYirpqmaaPhhE4ojBL7cY8rq9ez4tkiH1-V2dQJFXE5oDz7UxydOUCxFQ0ZsEXg1iyvj5bXx6vv83L8SnqEda1lkq3PJ_M8O6-M-DywBW-rxfhLsfh9c_Xx5sVTGcCY7vrVr-fl25-V0ffM-vKimFVDrf3Km9P1pKroYtvussNvxfuX-XhaLLLiw7x6IIR3Enl2kWfHefY3n8xWJ__W00sZ2ptw-GO5-Fw-ebf6el6efJLeMCzxuqAJupHvATuORrwJAh4FbHMEyabuAPnfOMAWtx7vsFEvdoATpqI2YOGDfj_YNqP-qHsA7A7rDcVpNPBYzO_5rBux4JZGPPR4dLc_CmNgU2zJIcBOwENgI2S0IKUQW1QziY5IEzwCNjFbpkEsw0Qa1QyCSdoEj-VWKISe_gc0jvmU)<br>28,079.52/週|
+#### 2030年
+[![](https://mermaid.ink/img/pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s?type=png)](https://mermaid.live/edit#pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s)
 
 <details>
-<summary>昨年以前の財政状況</summary>
+<summary>昨年以前の財政バランス</summary>
 
-<h3>2029年</h3>
+#### 2029年
+[![](https://mermaid.ink/img/pako:eNp1k91u2jAUx18l8jWgOIEQcrvd7gWm3KTFpUhLgtIgbUNIIxldv7RWW-k-QOs6RsWmFdiE1sLWpzEOyVvMNg0NSLuzz___O0fn-LgGNu0iAhpIp9O6tWlbW-WSpluCoAN3G5lIBxo9bhg79KRb3KRbroOQaVTSG8g16B2Q49ek2cONQeT3mU0QGD-7PSaDJjma6kDQBJjNKzCjiLFKWrtB7ypWVUUSM6ISi_PTbiwuQpy47sVBTZBzFIDivTrfn6z4WSz49I4SzJ4wYu879lvY62JvQjqju3wi6yM4HZJX0_U-ovYfctBmpiyUxUx22cLs5mB2cxiMxlHjLZOhJMOMpMYy9sbYP2eCpKq0u_vWGz0yvZ4PLuYnu5xTlKQc_N6L3v_iXG5FCK8uyZAnLKwCrQ-hxwG5IK0Uav4gnTe40SdTn3weM0deSujYv8T-Ifb_Ym8YnN2G_eSsFnjz52z6NXrxMfh2Hp19ST4H9k_oBBmQyxaWSTnXGdG5RPsv1yZPI3eTSgTDvcm6rdsOL45oQR4HKVByykWguU4VpYCJHNNgV1D775bWKVMxrMe2bcaYY1dL20DbMp7s0Fu1UjRc9LBslBzDXEYdZBWR88CuWi7QoArzPAvQauAp0OgDyiqU6NblIVRkKKfAM-qi-1DI5VRFzYpQgqpUT4HnvKyYoStNhQKk05FFyqQAKpZd23m0-G_829X_Af5ZSKc?type=png)](https://mermaid.live/edit#pako:eNp1k91u2jAUx18l8jWgOIEQcrvd7gWm3KTFpUhLgtIgbUNIIxldv7RWW-k-QOs6RsWmFdiE1sLWpzEOyVvMNg0NSLuzz___O0fn-LgGNu0iAhpIp9O6tWlbW-WSpluCoAN3G5lIBxo9bhg79KRb3KRbroOQaVTSG8g16B2Q49ek2cONQeT3mU0QGD-7PSaDJjma6kDQBJjNKzCjiLFKWrtB7ypWVUUSM6ISi_PTbiwuQpy47sVBTZBzFIDivTrfn6z4WSz49I4SzJ4wYu879lvY62JvQjqju3wi6yM4HZJX0_U-ovYfctBmpiyUxUx22cLs5mB2cxiMxlHjLZOhJMOMpMYy9sbYP2eCpKq0u_vWGz0yvZ4PLuYnu5xTlKQc_N6L3v_iXG5FCK8uyZAnLKwCrQ-hxwG5IK0Uav4gnTe40SdTn3weM0deSujYv8T-Ifb_Ym8YnN2G_eSsFnjz52z6NXrxMfh2Hp19ST4H9k_oBBmQyxaWSTnXGdG5RPsv1yZPI3eTSgTDvcm6rdsOL45oQR4HKVByykWguU4VpYCJHNNgV1D775bWKVMxrMe2bcaYY1dL20DbMp7s0Fu1UjRc9LBslBzDXEYdZBWR88CuWi7QoArzPAvQauAp0OgDyiqU6NblIVRkKKfAM-qi-1DI5VRFzYpQgqpUT4HnvKyYoStNhQKk05FFyqQAKpZd23m0-G_829X_Af5ZSKc)
 
-|収入の部|支出の部|
-|:-:|:-:|
-|[![](https://mermaid.ink/img/pako:eNpNkEFr2zAYhv-K-EbwxQRJtmVX1-437DB0UerPqSG2g2PDNmPYUrJTWS9rYbuMrQuspS3sNNbRX-M6W_7FFMfJppP0PO_7Cb4KjrIQQcJgUMVpXEhSWcUxJmhJYo30DC2bbMEzncd6NMGZMRWxpjGyTeYJpRFybxMziPdohBH2yOlQhMgp7ZG7TfFoFIU98jokuE-52yOxQ55_ZNV1PRioVKVGkCIuJkjas3ftYtm8uVuffFMpMUfB48NZe7doT-8VEEmY6ws2FHRn2_O3q-XtzgaC0yEVe_lj-Z90PCPZvtnMr5uT82Z-2cx_msjv97-61L_Ji5t28f3x_uv69cfV1af1xZfOcy6G-4xRfz6fri4-bKtgwziPQ5BFXqINCeaJ3jyh2hQUdEtXIM01xEiXk0KBSmtTm-r0eZYlu2aeleNjkJGezMyrnIa6wKexHuc62dMc0xDzw6xMC5CC-d0QkBW8AMmYb9YgKD8QTuB6zLXhJUg3GAa-e-AHzBGO73K3tuFV9ys1wqv_AqzgvqQ?type=png)](https://mermaid.live/edit#pako:eNpNkEFr2zAYhv-K-EbwxQRJtmVX1-437DB0UerPqSG2g2PDNmPYUrJTWS9rYbuMrQuspS3sNNbRX-M6W_7FFMfJppP0PO_7Cb4KjrIQQcJgUMVpXEhSWcUxJmhJYo30DC2bbMEzncd6NMGZMRWxpjGyTeYJpRFybxMziPdohBH2yOlQhMgp7ZG7TfFoFIU98jokuE-52yOxQ55_ZNV1PRioVKVGkCIuJkjas3ftYtm8uVuffFMpMUfB48NZe7doT-8VEEmY6ws2FHRn2_O3q-XtzgaC0yEVe_lj-Z90PCPZvtnMr5uT82Z-2cx_msjv97-61L_Ji5t28f3x_uv69cfV1af1xZfOcy6G-4xRfz6fri4-bKtgwziPQ5BFXqINCeaJ3jyh2hQUdEtXIM01xEiXk0KBSmtTm-r0eZYlu2aeleNjkJGezMyrnIa6wKexHuc62dMc0xDzw6xMC5CC-d0QkBW8AMmYb9YgKD8QTuB6zLXhJUg3GAa-e-AHzBGO73K3tuFV9ys1wqv_AqzgvqQ)<br>27127.76/週|[![](https://mermaid.ink/img/pako:eNpVkt2K00AYhm8lfFJyUsrMZPI3p3oNHkhOpsl0N9CmJU1BDQHbsCq7J-LP4rrCquhSwd2qFF2qXk2abnMXppN02c7RzPO87_dBSAxu3xPAoNGI_cCPmBKr0b7oCZUpapsPhdpUKnCfhz5vd8WwNLGiDnyBN5k7BFFk002sREQijNpmR6-RJpHepi7dIipRB2EdeTXSK-S6lIoaGRJxz9AQqZEpkXA94Zo1siQyXK5pRo3saiMxXHNbxEgyi9qYumqSJI2GEzhBaZTIj7pCWb2e5c8W2fiySKdOoJTHgeL0T3546oDCFEo01KJoa5ZXh8uro9X3eTF-JT0mGm4Ra-uzyTxLz6QhloVa6KaZj7_ki9_Xlx-vXzytmoZx269-PS_e_qya-o5ZX5zns2qmvVt5c7KeVBXNJjvLDr7l719m42m-SPMPcxkxya1Alp5n6VGW_s0ms9Xxv_X0QmZ2Bhz8WC4-F0_erb6eFcefpNepDU3YC30PWBSORBN6IuzxzRPiTdcB-cs4wMqrJzp81I0ccIKkrA148KDf722bYX-0tw-sw7vD8jUaeDwS93y-F_LeDQ1F4Inwbn8URMAMguUQYDE8BIax2ULlNyS2oVlUx7QJj4BRq2WZ1DYtrBmaSQlNmvBYbkWl0JP_DY_4nw?type=png)](https://mermaid.live/edit#pako:eNpVkt2K00AYhm8lfFJyUsrMZPI3p3oNHkhOpsl0N9CmJU1BDQHbsCq7J-LP4rrCquhSwd2qFF2qXk2abnMXppN02c7RzPO87_dBSAxu3xPAoNGI_cCPmBKr0b7oCZUpapsPhdpUKnCfhz5vd8WwNLGiDnyBN5k7BFFk002sREQijNpmR6-RJpHepi7dIipRB2EdeTXSK-S6lIoaGRJxz9AQqZEpkXA94Zo1siQyXK5pRo3saiMxXHNbxEgyi9qYumqSJI2GEzhBaZTIj7pCWb2e5c8W2fiySKdOoJTHgeL0T3546oDCFEo01KJoa5ZXh8uro9X3eTF-JT0mGm4Ra-uzyTxLz6QhloVa6KaZj7_ki9_Xlx-vXzytmoZx269-PS_e_qya-o5ZX5zns2qmvVt5c7KeVBXNJjvLDr7l719m42m-SPMPcxkxya1Alp5n6VGW_s0ms9Xxv_X0QmZ2Bhz8WC4-F0_erb6eFcefpNepDU3YC30PWBSORBN6IuzxzRPiTdcB-cs4wMqrJzp81I0ccIKkrA148KDf722bYX-0tw-sw7vD8jUaeDwS93y-F_LeDQ1F4Inwbn8URMAMguUQYDE8BIax2ULlNyS2oVlUx7QJj4BRq2WZ1DYtrBmaSQlNmvBYbkWl0JP_DY_4nw)<br>19,103.28/週|
+
 </details><br>
 
 ## 人口
 最新のデータを年代別の人口ピラミッドとして描画すると以下の通りです。
-
 ``` mermaid
 
 ---
@@ -118,12 +74,12 @@ xychart
     title "人口ピラミッド(2029年)"
     x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
     y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
-    bar [717, 1354, 1434, 3186, 1274]
+    bar [1274, 3186, 1434, 1354, 717]
 
 ```
 
 <!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkM9v0zAUx_-V6HHYkJLKTtwm9YFLd0SCEweWHdzWbSOlceW6ol1VaW0EW6nQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwmg6QeIen97X9Pu_rN4aGaHKg4DhOmDRE0oraNEwsE8NRrcOk2qg8Grm-IyOeKKYikVBrqyNktC-Mjrf-vut3xIMdpthtVucxtZQc8OJSdXiX32MyYvWY9_8h_z8rj14sVE3EQt5lMVeKm3k3Ahy0qi0zbG04TIajtasNP1Ixt0JYLZfZ8WudPtXpB52-1Gmq0_m2i9xqdv71ZgibDzpsGPWt3RD07JtOF3r2KgTbtGdv3hlCUV8tTq8OHha1Th_pmcH-1OmXzcuPJ6tfL0LYK4ijgnhtYDubf85OjvTUoOeXn55nh0t9MM3Oji-enV3Ozlc_TlffF9nRoZ49vnjyXk_fGmsWshznllVGCBXMOpPWro9928JemZhMPJM9HFRM7fpkD2xoy6gJNN-zDV0uuyyXMM4BIayXHgI1ZZO32CBW-QImpq3HkvtCdK87pRi0O0BbLO4bNeg1meI7EWtL1v1zKnnS5LImBokC6pM1A-gYhkAJ8krIR6RcRrjieySwYQQUe7hUwQFyMSG4EiDiT2zYX09FJZ8gF_lVH2HiehVSnvwG-iHr-w?type=png)
+[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkE1vEzEQhv-KNRxapN1onf3y7oFLekSCEwe6PTiJk6y0WUeOI5JGkZqsoA0Rag8gDhyQgPJxAFWABA2IP-Ns25-BN5sCEnOw5h17nnk9Y2jwJoMQTNOM0gZPW3E7jFKkYziqdaiQG1VEo9B3RMxSSWXM0xBtdbiI97nWydbfd_0Of7BDJb1N6ywJkRQDVl7KDuuye1TEtJ6w_j_k_2cV0Uu4rPGEi7s0YVIyPe8GwaQVtPSwteEoHY7Wrjb8WCYMRbBaLvPj1yp7qrIPKnupskxl8-2qVQ3y8683I9h80KTDuI92I1CzbypbqNmrCAzdnr95pwllfrU4vTp4WOYqe6RmGvtTZV82Lz-erH69iGCvJI5K4rWB7Xz-OT85UlONnl9-ep4fLtXBND87vnh2djk7X_04XX1f5EeHavb44sl7NX2rrSELmeYt5FqWVTLrVKBdXPUdA9mYeAbCjq1zbLv69LG_Bwa0RdyEsNizAV0murSQMC4AEayXHkGo0yZr0UEiiwVMdFuPpvc57153Cj5odyBs0aSv1aDXpJLtxLQtaPdPVbC0yUSND1IJoefjNQTCMQwhxJ5fIb7rOy6xLcsLAgNGuuraFc9xiOOTwCG-400M2F9PtSoecbHluA4JbIyrmEx-AwU07D4?type=png)
 
 ``` mermaid
 
@@ -190,11 +146,11 @@ xychart
     x-axis ["2027", "2028", "2029", "2030"]
     y-axis "人口(世代毎の人口は割合から算出、小数点以下切り捨て)" 0 --> 15000
     bar [4514, 6435, 7967, 11253]
-    line[361, 1029, 717, 1517]
-    line[1907, 2380, 1354, 4613]
+    line[361, 1029, 1274, 1517]
+    line[1907, 2380, 3186, 4613]
     line[902, 1415, 1434, 2025]
-    line[902, 836, 3186, 1913]
-    line[451, 772, 1274, 1125]
+    line[902, 836, 1354, 1913]
+    line[451, 772, 717, 1125]
 
 ```
 > **凡例**  
