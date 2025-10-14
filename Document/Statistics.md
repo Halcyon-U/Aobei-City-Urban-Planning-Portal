@@ -4,6 +4,7 @@
 
 |年|住宅区|商業区|工業区|特区|オフィス区画|公共交通機関|通行料|
 |:-:|-:|-:|-:|-:|-:|-:|-:|
+|2031|35366.14|11174.59|2254.48|1209.54|0|1068.00|0|
 |2030|25677.20|12754.51|2172.50|1153.79|0|654.00|0|
 |2029|14761.60|8620.06|3520.10|N/A|0|226.00|0|
 
@@ -12,17 +13,21 @@
 ### 支出の部
 |年|電力|上下水道|ゴミ|健康管理|消防|警察|教育|公園と広場|ユニーク施設|バス|地下鉄|鉄道|船|飛行機|
 |:-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|
+|2031|6320.00|1847.84|10080.00|2260.00|2560.00|960.00|8240.00|927.29|0|848.32|0|4253.76|0|0|
 |2030|3170.40|1253.84|10400.00|2260.00|2560.00|960.00|5040.00|112.00|0|779.84|0|0|0|0|
 |2029|4130.40|1231.28|2880.00|1660.00|2560.00|960.00|3920.00|72.00|0|549.00|0|0|0|0|
 > 週あたりの収入。
 
 ### 財政バランス
 
-#### 2030年
-[![](https://mermaid.ink/img/pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s?type=png)](https://mermaid.live/edit#pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s)
+#### 2031年
+[![](https://mermaid.ink/img/pako:eNqFU9lu00AU_RVrnhPLy4y3V3jlB5Bf3MZNI2E7ch0JiCKRuClNW9EKmrIkopSQKiCygCLaBPo1zjjxXzCexFkqISQ_zNyz3LlnPEWw7WRMoIF0Oq3b2469k8tqus0wOvB2TcvUgUaWW8YeWek2Jem255qmZeTTW6ZnkD3Ap69wtR2Ue5HfiWkME-snd6e4V8UnYx0wGiMiUZJYHiYorh-E7W6C8jwvQxapCTo9byXovEQlN-2kqDGCgCALlRU6rY02-HEt_PiWKGI6L3Aqi-CKHlS-BX49qLSCygg3BwtXbnm86ndc_TEZf4lefAi_XkYXn6kLJyksx8Uzh-d9_HJ8f-ao8RsfNWKqJAocpS7CuD2a3B6Hg2FUfkOdFFlhFUi-hBFUhoF_Oe_CKetaXG7j8c20dzU9O5iPLq3D4a_D6N1PCqANYNa9xn3qqG4K6u9nFSpQBLjRiAzdfB2UO3js409DqhRkVhWWZ_SvA_848P8ElX54cTfrdP8b2lri_hnJmraFCisKaxfbHJBwotr-mhtNs7a_iAsKSGRlaQXNDkf3ya3G7OqEtKV1kAJZN5cBmucWzBSwTNcy4i0o_vPnLhFN3rAfO46VyFynkN0F2o7xZI_sCvmM4ZkPc0bWNaxl1TXtjOk-cAq2BzRR4KkJ0IrgKdAkyMqIV2VZQlAVeEVNgWdA41WeVVWIVHLNKkI8KqXAc9qVYxUZpYCZyXmO-2j-MOn7LP0F6i5ajg?type=png)](https://mermaid.live/edit#pako:eNqFU9lu00AU_RVrnhPLy4y3V3jlB5Bf3MZNI2E7ch0JiCKRuClNW9EKmrIkopSQKiCygCLaBPo1zjjxXzCexFkqISQ_zNyz3LlnPEWw7WRMoIF0Oq3b2469k8tqus0wOvB2TcvUgUaWW8YeWek2Jem255qmZeTTW6ZnkD3Ap69wtR2Ue5HfiWkME-snd6e4V8UnYx0wGiMiUZJYHiYorh-E7W6C8jwvQxapCTo9byXovEQlN-2kqDGCgCALlRU6rY02-HEt_PiWKGI6L3Aqi-CKHlS-BX49qLSCygg3BwtXbnm86ndc_TEZf4lefAi_XkYXn6kLJyksx8Uzh-d9_HJ8f-ao8RsfNWKqJAocpS7CuD2a3B6Hg2FUfkOdFFlhFUi-hBFUhoF_Oe_CKetaXG7j8c20dzU9O5iPLq3D4a_D6N1PCqANYNa9xn3qqG4K6u9nFSpQBLjRiAzdfB2UO3js409DqhRkVhWWZ_SvA_848P8ElX54cTfrdP8b2lri_hnJmraFCisKaxfbHJBwotr-mhtNs7a_iAsKSGRlaQXNDkf3ya3G7OqEtKV1kAJZN5cBmucWzBSwTNcy4i0o_vPnLhFN3rAfO46VyFynkN0F2o7xZI_sCvmM4ZkPc0bWNaxl1TXtjOk-cAq2BzRR4KkJ0IrgKdAkyMqIV2VZQlAVeEVNgWdA41WeVVWIVHLNKkI8KqXAc9qVYxUZpYCZyXmO-2j-MOn7LP0F6i5ajg)
 
 <details>
 <summary>昨年以前の財政バランス</summary>
+
+#### 2030年
+[![](https://mermaid.ink/img/pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s?type=png)](https://mermaid.live/edit#pako:eNqFU1tv0lAc_yrkPENz2p5eX_XVL2D60o2OkdiWdCVRCYm0Y45tcYuOeYE4J7KgkYuGuIHu05RT6Lfw9EC5LDG-nfO7_C-_nFMC23bWACrIZDKatW1bO_mcqlmplAbcXcM0NKCS45a-R06aRUWa5TqGYeqFzJbh6uQO8OkrXG0HlV7kd2JZKhX7J3enuFfFJ2MNpNQUJ4iSxHAwYXH9IGx3E5blJAExApuw0_NWws4harlpJyCpx0ocI8AVO62NNvQxFn58SxyxnGUFnpGUlTzwvgV-PfBagTfCzcGi6mq86ndc_TEZf4lefAi_XkYXn2NaJENCGK8cnvfxy_H9laPGb3zUiJU8K0EGLctNbo8mt8fhYBhV3tBxODKOjBI68IaBf0kJiCCkPRZzVNp4fDPtXU3PDujanLhOh78Oo3c_KSFsELPuNe7Tisqmof5-5lGDQDqtNyILN18HlQ4e-_jTcJ4ZtyYI_OvAPw78P4HXDy_uZp3ufwNbS9s_IznHBklSlotTX3NAkolq-2vVaJS1_UVWa-DscHRf1mrMrk5IQ4qDNMg5-SxQXadopIFpOKYeX0Hpn0-6TDwF3Xps22Zic-xibheoO_qTPXIrFrK6azzM6zlHN5eoY1hZw3lgFy0XqBxEIq0C1BJ4ClQWKgwviTKSkSIoMi-jNHhGYJ5lEBKQxHGQZaHIoXIaPKeNIXmbSFREjudlCCURCWlgZPOu7Tyaf0_6S8t_AZDhW4s)
 
 #### 2029年
 [![](https://mermaid.ink/img/pako:eNp1k91u2jAUx18l8jWgOIEQcrvd7gWm3KTFpUhLgtIgbUNIIxldv7RWW-k-QOs6RsWmFdiE1sLWpzEOyVvMNg0NSLuzz___O0fn-LgGNu0iAhpIp9O6tWlbW-WSpluCoAN3G5lIBxo9bhg79KRb3KRbroOQaVTSG8g16B2Q49ek2cONQeT3mU0QGD-7PSaDJjma6kDQBJjNKzCjiLFKWrtB7ypWVUUSM6ISi_PTbiwuQpy47sVBTZBzFIDivTrfn6z4WSz49I4SzJ4wYu879lvY62JvQjqju3wi6yM4HZJX0_U-ovYfctBmpiyUxUx22cLs5mB2cxiMxlHjLZOhJMOMpMYy9sbYP2eCpKq0u_vWGz0yvZ4PLuYnu5xTlKQc_N6L3v_iXG5FCK8uyZAnLKwCrQ-hxwG5IK0Uav4gnTe40SdTn3weM0deSujYv8T-Ifb_Ym8YnN2G_eSsFnjz52z6NXrxMfh2Hp19ST4H9k_oBBmQyxaWSTnXGdG5RPsv1yZPI3eTSgTDvcm6rdsOL45oQR4HKVByykWguU4VpYCJHNNgV1D775bWKVMxrMe2bcaYY1dL20DbMp7s0Fu1UjRc9LBslBzDXEYdZBWR88CuWi7QoArzPAvQauAp0OgDyiqU6NblIVRkKKfAM-qi-1DI5VRFzYpQgqpUT4HnvKyYoStNhQKk05FFyqQAKpZd23m0-G_829X_Af5ZSKc?type=png)](https://mermaid.live/edit#pako:eNp1k91u2jAUx18l8jWgOIEQcrvd7gWm3KTFpUhLgtIgbUNIIxldv7RWW-k-QOs6RsWmFdiE1sLWpzEOyVvMNg0NSLuzz___O0fn-LgGNu0iAhpIp9O6tWlbW-WSpluCoAN3G5lIBxo9bhg79KRb3KRbroOQaVTSG8g16B2Q49ek2cONQeT3mU0QGD-7PSaDJjma6kDQBJjNKzCjiLFKWrtB7ypWVUUSM6ISi_PTbiwuQpy47sVBTZBzFIDivTrfn6z4WSz49I4SzJ4wYu879lvY62JvQjqju3wi6yM4HZJX0_U-ovYfctBmpiyUxUx22cLs5mB2cxiMxlHjLZOhJMOMpMYy9sbYP2eCpKq0u_vWGz0yvZ4PLuYnu5xTlKQc_N6L3v_iXG5FCK8uyZAnLKwCrQ-hxwG5IK0Uav4gnTe40SdTn3weM0deSujYv8T-Ifb_Ym8YnN2G_eSsFnjz52z6NXrxMfh2Hp19ST4H9k_oBBmQyxaWSTnXGdG5RPsv1yZPI3eTSgTDvcm6rdsOL45oQR4HKVByykWguU4VpYCJHNNgV1D775bWKVMxrMe2bcaYY1dL20DbMp7s0Fu1UjRc9LBslBzDXEYdZBWR88CuWi7QoArzPAvQauAp0OgDyiqU6NblIVRkKKfAM-qi-1DI5VRFzYpQgqpUT4HnvKyYoStNhQKk05FFyqQAKpZd23m0-G_829X_Af5ZSKc)
@@ -32,6 +37,12 @@
 
 ## 人口
 最新のデータを年代別の人口ピラミッドとして描画すると以下の通りです。
+
+[![](https://mermaid.ink/img/pako:eNplks9v0zAUx_-V6HHYkJLKTpo4y4FLdwTBiQPLDm7rtpHSuHJd0a6qtDaCravQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwkg6QeAfrfW2_z_uhN4YGbzIIwLKsMGnwpBW1gzAxtA1HtQ4Vcq1ya-T6rohYIqmMeBIYGx0uoj2udbzx91-_wx9uU0lv0zqLA0OKASsfZYd12X0qIlqPWf8f8v-5cuvFXNZ4zMU9GjMpmc53w8d-a6ulkxUFh8lwVFS15kcyZkYIq-UyO36t0qcq_aDSlypNVTrftJGDs_OvN0NYN2jRYdQ3dkJQs28qXajZqxBMHZ69eacJpX-1OL3af1T6Kn2sZhr7U6Vf1j8_nqx-vQhhtySOSuJ1AZvZ_HN2cqimGj2__PQ8O1iq_Wl2dnzx7Oxydr76cbr6vsgOD9Ts6OLJezV9q0szkGFZtwzsIoRKaJ0KY8dGrmcaVeK6pmG7BOnTwY5pYOx6u2BCW0RNCPJJm9BloktzCeOcEEIx9hAC7dZpn-X9T3RMjyYPOO9ehwk-aHcgaNG4r9Wg16SSbUe0LWj3z61gSZOJGh8kEoKq4xYQCMYwhMB2_Apy_WrVJZ7vIFK1TRhBgAmpYJTP3rN9Qlzfn5iwV-RFFQ8RjxCMHcfGBG9hE1gzklzcKZey2M3JbxcR8iM?type=png)](https://mermaid.live/edit#pako:eNplks9v0zAUx_-V6HHYkJLKTpo4y4FLdwTBiQPLDm7rtpHSuHJd0a6qtDaCravQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwkg6QeAfrfW2_z_uhN4YGbzIIwLKsMGnwpBW1gzAxtA1HtQ4Vcq1ya-T6rohYIqmMeBIYGx0uoj2udbzx91-_wx9uU0lv0zqLA0OKASsfZYd12X0qIlqPWf8f8v-5cuvFXNZ4zMU9GjMpmc53w8d-a6ulkxUFh8lwVFS15kcyZkYIq-UyO36t0qcq_aDSlypNVTrftJGDs_OvN0NYN2jRYdQ3dkJQs28qXajZqxBMHZ69eacJpX-1OL3af1T6Kn2sZhr7U6Vf1j8_nqx-vQhhtySOSuJ1AZvZ_HN2cqimGj2__PQ8O1iq_Wl2dnzx7Oxydr76cbr6vsgOD9Ts6OLJezV9q0szkGFZtwzsIoRKaJ0KY8dGrmcaVeK6pmG7BOnTwY5pYOx6u2BCW0RNCPJJm9BloktzCeOcEEIx9hAC7dZpn-X9T3RMjyYPOO9ehwk-aHcgaNG4r9Wg16SSbUe0LWj3z61gSZOJGh8kEoKq4xYQCMYwhMB2_Apy_WrVJZ7vIFK1TRhBgAmpYJTP3rN9Qlzfn5iwV-RFFQ8RjxCMHcfGBG9hE1gzklzcKZey2M3JbxcR8iM)
+
+<details>
+<summary>昨年以前の人口ピラミッド</summary>
+
 ``` mermaid
 
 ---
@@ -54,9 +65,6 @@ xychart
 
 <!--グラフを更新したら画像の更新も忘れずに！-->
 [グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkE1vEzEQhv-KNRxapN1qvd_xgUt6RIITB7o9OImTrLRZR44jkkaRmqygDRFqD6AeekACyscBVAESNCD-jLNtfwbebApIzOl9PTPPjGcEdd5gQMA0zSit87QZt0iUIh2DYbVNhVy7IuqFvydilkoqY54StNHmIt7j2icbf-t6bf5om0p6l9ZYQpAUfVYmZZt12AMqYlpLWO8f8v-ziugmXFZ5wsV9mjApmZ53K8Rhs9LUw1YLR-lguNpqzY9lwlAEy8UiP3qtsucq-6CylyrLVDbbtC3Hyi--3o5g_UGTDuIe2olATb-pbK6mryIwdHv-5p0mlPp6fna9_7jUKnuiphr7U2Vf1pUfj5e_TiPYLYnDknizwGY--5wfH6qJRs-uPp3kBwu1P8nPjy5fnF9NL5Y_zpbf5_nhgZo-vXz2Xk3e6tWQhUzzDsKeZVkltEYF2sFe4BnI9bFjINuytcaVQmNse7tgQEvEDSDFpQ3oMNGhhYVRQYhgdfYIiJYN1qT9RBYnGOu2Lk0fct656RS832oDadKkp12_26CSbce0JWjnz6tgaYOJKu-nEojvOCsIkBEMgGAcbFm-b9kV3wldD7sGDIG44VYYuJUgxI7vBK7tjg3YW021dMIb_wapOOnW?type=png)
-
-<details>
-<summary>昨年以前の人口ピラミッド</summary>
 
 ``` mermaid
 
@@ -142,17 +150,18 @@ config:
 ---
 
 xychart
-    title "人口推移(2027~2029)"
-    x-axis ["2027", "2028", "2029", "2030"]
+    title "人口推移"
+    x-axis ["2027", "2028", "2029", "2030","2031"]
     y-axis "人口(世代毎の人口は割合から算出、小数点以下切り捨て)" 0 --> 15000
-    bar [4514, 6435, 7967, 11253]
-    line[361, 1029, 1274, 1517]
-    line[1907, 2380, 3186, 4613]
-    line[902, 1415, 1434, 2025]
-    line[902, 836, 1354, 1913]
-    line[451, 772, 717, 1125]
+    bar [4514, 6435, 7967, 11253, 12854]
+    line[361, 1029, 1274, 1517, 2056]
+    line[1907, 2380, 3186, 4613, 4755]
+    line[902, 1415, 1434, 2025, 2570]
+    line[902, 836, 1354, 1913, 2313]
+    line[451, 772, 717, 1125, 1156]
 
 ```
+
 > **凡例**  
 > 青緑: シニア  
 > 赤: 大人  
@@ -179,10 +188,10 @@ config:
 
 xychart
     title "ゴミ埋立地許容量(茶)、貯蔵量(紫)"
-    x-axis ["2027", "2028", "2029", "2023"]
+    x-axis ["2027", "2028", "2029", "2030", "2031"]
     y-axis "個数" 0 --> 30000000
-    bar [8000000, 16000000, 24000000, 16000000]
-    line[4720000, 10960000, 15546600, 8594000]
+    bar [8000000, 16000000, 24000000, 16000000, 0]
+    line[4720000, 10960000, 15546600, 8594000, 0]
 
 ```
 
@@ -204,10 +213,10 @@ config:
 
 xychart
     title "週排出量(黄)、週焼却量(橙)"
-    x-axis ["2027", "2028", "2029", "2030"]
+    x-axis ["2027", "2028", "2029", "2030", "2031"]
     y-axis "個数" 0 --> 400000
-    line[105888, 109984, 150240, 179264]
-    line[0, 0, 60000, 336000]
+    line[105888, 109984, 150240, 179264, 173008]
+    line[0, 0, 60000, 336000, 336000]
 
 ```
 
