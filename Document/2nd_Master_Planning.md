@@ -73,91 +73,17 @@
 | ![Elevation_2ndMP.jpg](../Image/Elevation_2ndMP.jpg)<br>![Elevation_Legend.jpg](../Image/Elevation_Legend.jpg) |
 
 ### 人口
-計画区域においては現人口が4,514名、出生数が週28名、死者数が週4名。人口の82%が生産人口です。
+計画区域においては現人口が12,853名、出生数が週28名、死者数が週23名です。
 
-また、計画区域の北西部に位置する開発第1期の開発地域と、中西部に位置する第2期の開発地域で世帯構成が変化しており、第1期開発地域では入居から年数が経っていることがあり成人中心の世帯構成に、第2期開発地域では入居から間もないために家族中心の世帯構成となっています。
-
-また、人口に占める初等教育の修了率は27%、中等教育の修了率は18%となっており、高等教育機関の設置と、高等教育修了者に向けた雇用の創出、産業の誘致が将来的に課題となる可能性があります。
+計画区域の北西部に位置する開発第1期の開発地域、中西部に位置する第2期の開発地域では、「澳北市都市計画主要計画」の段階では見られなかったシニア層メインの世帯が徐々に見られるようになり、これに伴い週ごとの死者数が増加が見られます。
 
 |人口情報|
 |:-:|
-| ![Population.jpg](../Image/Population.jpg)<br>![Population_Data.jpg](../Image/Population_Data.jpg)<br>![Education_Data.jpg](../Image/Education_Data.jpg) |
+| ![Population_2ndMP.jpg](../Image/Population_2ndMP.jpg)<br><blockquote style="text-align:left;"><strong>凡例</strong><ul><li>緑: 主に家族</li><li>灰: 主にシニア</li><li>紫: 主に大人</li></ul></blockquote> |
 
 最新のデータを年代別に人口ピラミッドとして描画すると以下の通りです。
 
-``` mermaid
-
----
-config:
-    xyChart:
-        chartOrientation: 'horizontal'
-        showDataLabel: true
-    themeVariables:
-        xyChart:
-            plotColorPalette: '#818f9f'
----
-
-xychart
-    title "人口ピラミッド(2029年)"
-    x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
-    y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
-    bar [717, 1354, 1434, 3186, 1274]
-
-```
-
-<!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkM9v0zAUx_-V6HHYkJLKTtwm9YFLd0SCEweWHdzWbSOlceW6ol1VaW0EW6nQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwmg6QeIen97X9Pu_rN4aGaHKg4DhOmDRE0oraNEwsE8NRrcOk2qg8Grm-IyOeKKYikVBrqyNktC-Mjrf-vut3xIMdpthtVucxtZQc8OJSdXiX32MyYvWY9_8h_z8rj14sVE3EQt5lMVeKm3k3Ahy0qi0zbG04TIajtasNP1Ixt0JYLZfZ8WudPtXpB52-1Gmq0_m2i9xqdv71ZgibDzpsGPWt3RD07JtOF3r2KgTbtGdv3hlCUV8tTq8OHha1Th_pmcH-1OmXzcuPJ6tfL0LYK4ijgnhtYDubf85OjvTUoOeXn55nh0t9MM3Oji-enV3Ozlc_TlffF9nRoZ49vnjyXk_fGmsWshznllVGCBXMOpPWro9928JemZhMPJM9HFRM7fpkD2xoy6gJNN-zDV0uuyyXMM4BIayXHgI1ZZO32CBW-QImpq3HkvtCdK87pRi0O0BbLO4bNeg1meI7EWtL1v1zKnnS5LImBokC6pM1A-gYhkAJ8krIR6RcRrjieySwYQQUe7hUwQFyMSG4EiDiT2zYX09FJZ8gF_lVH2HiehVSnvwG-iHr-w?type=png)
-
-<details>
-<summary>昨年以前の人口ピラミッド</summary>
-
-``` mermaid
-
----
-config:
-    xyChart:
-        chartOrientation: 'horizontal'
-        showDataLabel: true
-    themeVariables:
-        xyChart:
-            plotColorPalette: '#818f9f'
----
-
-xychart
-    title "人口ピラミッド(2028年)"
-    x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
-    y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
-    bar [1029, 2380, 1415, 836, 772]
-
-```
-
-<!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkM9u00AQxl9lNRxaJDvatZ3Y2QOX9IgEJw7UPWySTWLJ8UabjUgaRWpiQRsi1B5AHDggAeXPAVQBEjQgXmbjto_BOk4BiTnNtzvz-2ZmDA3R5EDBtu0waYikFbVpmCATw1Gtw6TaqDwaub4jI54opiKRULTVETLaF0bHW3_r-h3xYIcpdpvVeUyRkgNefKoO7_J7TEasHvP-P-T_vfLoxULVRCzkXRZzpbjxuxGQoFVtGbP1wGEyHK2n2vAjFXMUwmq5zI5f6_SpTj_o9KVOU53Otx3sBNn515shbBa02TDqo90Q9OybThd69ioEy7Rnb94ZQpFfLU6vDh4WuU4f6ZnB_tTpl03lx5PVrxch7BXEUUG8HmA7m3_OTo701KDnl5-eZ4dLfTDNzo4vnp1dzs5XP05X3xfZ0aGePb548l5P35rREEa2fQuVMcYFs84k2iXYqVrIcQNsIeKRsoUCt2Ih33f2wIK2jJpA8zNb0OWyy3IJ47w_hPXNQ6AmbfIWG8Qq339i2nosuS9E97pTikG7A7TF4r5Rg16TKb4TsbZk3T-vkidNLmtikCigPl4zgI5hCNTDbgn72CuXMan4rhdYMAJKXFKqkAA7xPNIJcCeP7Fgf-2KS76HHexXfUw8x6145clvHt_rww?type=png)
-
-``` mermaid
-
----
-config:
-    xyChart:
-        chartOrientation: 'horizontal'
-        showDataLabel: true
-    themeVariables:
-        xyChart:
-            plotColorPalette: '#818f9f'
----
-
-xychart
-    title "人口ピラミッド(2027年)"
-    x-axis ["シニア", "大人", "若者", "ティーン", "子供"]
-    y-axis "人口(割合から算出、小数点以下切り捨て)" 0 --> 5000
-    bar [361, 1907, 902, 902, 451]
-
-```
-
-<!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkM9v0zAUx_8V63HYkJLKTtOk9YFLd0SCEweWHdzGbSOlceW6ol1VaW0EW6nQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwmg6QeAfrfe33_bznN4amCDlQsG07SJoiaUVtGiTIxHBU7zCpNiqPZq7vyIgniqlIJBRtdYSM9oXR8dbfun5HPNhhit1mDR5TpOSAF4-qw7v8HpMRa8S8_w_5_1559GKh6iIW8i6LuVLc9LtRJdVWrWWarQcOkuFoPdWGH6mYowBWy2V2_FqnT3X6QacvdZrqdL7tYMfPzr_eDGDzQZsNoz7aDUDPvul0oWevArCMPXvzzhCK_GpxenXwsMh1-kjPDPanTr9sKj-erH69CGCvII4K4vUA29n8c3ZypKcGPb_89Dw7XOqDaXZ2fPHs7HJ2vvpxuvq-yI4O9ezxxZP3evrWjIYwsu1bqIIxLpgNJtFu2SMWIjXsW6iGnc3hVsgeWNCWUQg0X7IFXS67LJcwzt0BrDceADVpyFtsEKv89xNj67HkvhDda6cUg3YHaIvFfaMGvZApvhOxtmTdP7eSJyGXdTFIFFDPWzOAjmEI1MXlEvaxW6lg4vllt2rBCCgpk5JHqtghrku8Knb9iQX766645LvYwX7Nx8R1yp5bmfwGa6jrXQ?type=png)
-
-</details><br>
+[![](https://mermaid.ink/img/pako:eNplks9v0zAUx_-V6HHYkJLKTpo4y4FLdwTBiQPLDm7rtpHSuHJd0a6qtDaCravQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwkg6QeAfrfW2_z_uhN4YGbzIIwLKsMGnwpBW1gzAxtA1HtQ4Vcq1ya-T6rohYIqmMeBIYGx0uoj2udbzx91-_wx9uU0lv0zqLA0OKASsfZYd12X0qIlqPWf8f8v-5cuvFXNZ4zMU9GjMpmc53w8d-a6ulkxUFh8lwVFS15kcyZkYIq-UyO36t0qcq_aDSlypNVTrftJGDs_OvN0NYN2jRYdQ3dkJQs28qXajZqxBMHZ69eacJpX-1OL3af1T6Kn2sZhr7U6Vf1j8_nqx-vQhhtySOSuJ1AZvZ_HN2cqimGj2__PQ8O1iq_Wl2dnzx7Oxydr76cbr6vsgOD9Ts6OLJezV9q0szkGFZtwzsIoRKaJ0KY8dGrmcaVeK6pmG7BOnTwY5pYOx6u2BCW0RNCPJJm9BloktzCeOcEEIx9hAC7dZpn-X9T3RMjyYPOO9ehwk-aHcgaNG4r9Wg16SSbUe0LWj3z61gSZOJGh8kEoKq4xYQCMYwhMB2_Apy_WrVJZ7vIFK1TRhBgAmpYJTP3rN9Qlzfn5iwV-RFFQ8RjxCMHcfGBG9hE1gzklzcKZey2M3JbxcR8iM?type=png)](https://mermaid.live/edit#pako:eNplks9v0zAUx_-V6HHYkJLKTpo4y4FLdwTBiQPLDm7rtpHSuHJd0a6qtDaCravQdgBx4IAEjB8H0ARIsIL4Z9xs-zNwkg6QeAfrfW2_z_uhN4YGbzIIwLKsMGnwpBW1gzAxtA1HtQ4Vcq1ya-T6rohYIqmMeBIYGx0uoj2udbzx91-_wx9uU0lv0zqLA0OKASsfZYd12X0qIlqPWf8f8v-5cuvFXNZ4zMU9GjMpmc53w8d-a6ulkxUFh8lwVFS15kcyZkYIq-UyO36t0qcq_aDSlypNVTrftJGDs_OvN0NYN2jRYdQ3dkJQs28qXajZqxBMHZ69eacJpX-1OL3af1T6Kn2sZhr7U6Vf1j8_nqx-vQhhtySOSuJ1AZvZ_HN2cqimGj2__PQ8O1iq_Wl2dnzx7Oxydr76cbr6vsgOD9Ts6OLJezV9q0szkGFZtwzsIoRKaJ0KY8dGrmcaVeK6pmG7BOnTwY5pYOx6u2BCW0RNCPJJm9BloktzCeOcEEIx9hAC7dZpn-X9T3RMjyYPOO9ehwk-aHcgaNG4r9Wg16SSbUe0LWj3z61gSZOJGh8kEoKq4xYQCMYwhMB2_Apy_WrVJZ7vIFK1TRhBgAmpYJTP3rN9Qlzfn5iwV-RFFQ8RjxCMHcfGBG9hE1gzklzcKZey2M3JbxcR8iM)
 
 また、統計開始時からの人口の推移は以下の通りです。
 ```mermaid
@@ -172,20 +98,34 @@ config:
 ---
 
 xychart
-    title "人口推移(2027~2029)"
-    x-axis ["2027", "2028", "2029"]
-    y-axis "人口(世代毎の人口は割合から算出、小数点以下切り捨て)" 0 --> 10000
-    bar [4514, 6435, 7967]
-    line[361, 1029, 717]
-    line[1907, 2380, 1354]
-    line[902, 1415, 1434]
-    line[902, 836, 3186]
-    line[451, 772, 1274]
+    title "人口推移"
+    x-axis ["2027", "2028", "2029", "2030","2031"]
+    y-axis "人口(世代毎の人口は割合から算出、小数点以下切り捨て)" 0 --> 15000
+    bar [4514, 6435, 7967, 11253, 12854]
+    line[361, 1029, 1274, 1517, 2056]
+    line[1907, 2380, 3186, 4613, 4755]
+    line[902, 1415, 1434, 2025, 2570]
+    line[902, 836, 1354, 1913, 2313]
+    line[451, 772, 717, 1125, 1156]
 
 ```
 
-<!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUr1u2zAQfhXiMiQFJIOUKFHU0MUZO3TqUCsDbVG2AFkyZBm1a7iovSRpkKRL2wcI2mZKgk6p_Tiy7NcoaTuBi9xAfHcfv_sjx9DKQgk-mKYZpK0sjeK2H6RI2XBU74i82Hna-p3sw7EoxBvRlImPinwgt2TRkV35TuSxaCayv6d4mUNbL8mKepZk-VuRyKKQPjo88IgX8chAB6TVlFwq4IVYmQaEy9BRgLfCkDIFoqhpOfZhkG66DtLhqKXL7JqJi0SiAJbzeXV9s7q6Xf9eHFnYYp_UwV8FsBvPFMO4jxoBaC4AA22Q94x4ACfbq6Pt1aeUR8vH78vFzer-qpzebUPl9L46_1N9PSunF-XsfH33ozqdl5-n1cP16tvDevZ3ufi5fLyozk7L2ZfV5W05_aUaQRiZ5mtE9JzbSk2RowZ1CDWQS201M-Mu23WRxKls2C4xlMDiiiL_MYRjtRrL9tTKiO3QfY5jSwUpcfRpv6Q82zWQTTx3n1FtqCJMKy1GT8CAdh6H4OtnN6Ar867QLoy1JoDNHwjAVzCUkRgkhd70RMl6In2fZd0nZZ4N2h3wI5H0lTfohaKQx7Fo56L7HM1lGsq8ng3SAnzX2uQAfwxD8Cm2a5hh6jiYuMymngEj8IlNai7xsEUoJa6HKZsY8HFTFdcYxRZm3MOEuBbhbPIPnCv02Q?type=png)
+> **凡例**  
+> 青緑: シニア  
+> 赤: 大人  
+> 青紫: 若者  
+> 黄緑: ティーン  
+> 黃: 子供  
+
+#### 教育
+
+[![](https://mermaid.ink/img/pako:eNp1jc1KxDAUhV-l3HUtbdK0Sbb6FJJNtJnOwPSHmIJaunGlCxEEQUFBQRSUgdGVD2SrvoXN2BlF9O7OPec7p4btIlHAwWilMlmubSkjRS6gu3xo50_t7E7AL8mdkNJQ5E5_AtrDq7fZUXd28X7wbKOOM_znJ326u75pj08tg1GAl671X19mf3Bf3sfj-TeIKIp_2kPgH3g1f3vfzw8VAUMUXEj1JAFudKVcyJTOpJVQW1yAGatM2bCARI1kNTW2uOmxUuabRZEtSV1U6Rj4SE53elWViTRqYyJTLbPVV6s8UXq9qHIDPAiJv2gBXsMu8Ih6jGKGEfKJT2IcurAHHCHiBYQSP8Zx6LOI4MaF_cWu78UBY5RGDPc-Y7j5BOB9mgk?type=png)](https://mermaid.live/edit#pako:eNp1jc1KxDAUhV-l3HUtbdK0Sbb6FJJNtJnOwPSHmIJaunGlCxEEQUFBQRSUgdGVD2SrvoXN2BlF9O7OPec7p4btIlHAwWilMlmubSkjRS6gu3xo50_t7E7AL8mdkNJQ5E5_AtrDq7fZUXd28X7wbKOOM_znJ326u75pj08tg1GAl671X19mf3Bf3sfj-TeIKIp_2kPgH3g1f3vfzw8VAUMUXEj1JAFudKVcyJTOpJVQW1yAGatM2bCARI1kNTW2uOmxUuabRZEtSV1U6Rj4SE53elWViTRqYyJTLbPVV6s8UXq9qHIDPAiJv2gBXsMu8Ih6jGKGEfKJT2IcurAHHCHiBYQSP8Zx6LOI4MaF_cWu78UBY5RGDPc-Y7j5BOB9mgk)
+
+未就学の市民は38%、初等教育の修了率は25%、中等教育の修了率は22%、高等教育の修了率は15%となっており、市民の半数以上が初等教育以上の教育を受けています。
+
+近年では公園や広場・公共交通機関の整備により商業区域が高レベル化した結果、商業区域が要求する高学歴の労働者が不足し、建物が放棄される事例が多発していることから、教育の強化が課題となっています。
+
+他方、特化区域をはじめとするオフィス区画以外の工業区は低学歴の労働者を要求すること、教育は完了まで時間を要することから、学校建設を過剰に行うことによる維持費の増加、過剰教育の実施に対しては警戒感を持ちながらの施策が必要となります。
 
 ### 産業・経済
 計画区域内工業区においては、364トンを市外から輸入、498トンを市外へ輸出しており、輸入品目は石油が最多、次いで鉱石、農産物、木材、商品となっており、輸出品目は全量が商品となっています。
