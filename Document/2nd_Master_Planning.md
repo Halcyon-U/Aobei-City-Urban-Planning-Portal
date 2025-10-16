@@ -169,13 +169,9 @@ xychart
 | ![Health_2ndMP.jpg](../Image/Health_2ndMP.jpg)<br>![Health_Data_2ndMP.jpg](../Image/Health_Data_2ndMP.jpg) |
 
 #### 廃棄物処理
-計画区域においては1箇所のゴミ埋立地が設置されており、59%が使用済みです。現在、澳北市では廃棄物の処理方法を埋め立てに頼っており、希望的観測としてこのままのペースで廃棄物が排出された場合、2029年9月には埋立地の使用率が100%となり、新たな埋立地を必要とする見込みです。
+計画区域においては7箇所のゴミ焼却場が設置されており、約51.5%の稼働率で稼働、43MWの電力を発電しています。
 
-|廃棄物処理情報|
-|:-:|
-| ![Waste.jpg](../Image/Waste.jpg)<br>![Waste_Data.jpg](../Image/Waste_Data.jpg) |
-
-また、統計開始時からのゴミ埋立地の許容量、貯蔵量、週排出量の推移は以下の通りです。
+また、統計開始時からのゴミ埋立地の許容量、貯蔵量の推移は以下の通りです。
 
 ```mermaid
 
@@ -190,15 +186,17 @@ config:
 
 xychart
     title "ゴミ埋立地許容量(茶)、貯蔵量(紫)"
-    x-axis ["2027", "2028", "2029"]
+    x-axis ["2027", "2028", "2029", "2030", "2031"]
     y-axis "個数" 0 --> 30000000
-    bar [8000000, 16000000, 24000000]
-    line[4720000, 10960000, 15546600]
+    bar [8000000, 16000000, 24000000, 16000000, 0]
+    line[4720000, 10960000, 15546600, 8594000, 0]
 
 ```
 
 <!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplkL9u2zAQxl-FuAxpACmgGP0zhy7O2KFTh5oZaImyBVCkQVOoXcNA2g4dXKBLuxXIGiBAmhZpgT6P4cZ9i4qSEgTITb_77u47HleQ6VwABd_3mcq0KsoJZQo1sVgOp9zYPnMxn-o3p9zyF3wsJEXW1KIr2qmoxCtuSj6WYv5o4qmHi5nUdqilNi-5FNYKig4PonGYhZGHDjiJs6JwEAxijBsQWRTg7JCp9o1MLZaZM-1Xl1YKxGD7_nb74WJ3sbm72uy-3ewvf-yu__z7-PnZ_tPvo-35u_3P7_svv5xwd3t1xKC_0eeLco5GDAgmCQMPtZQ-0IDBWde67FoZ7M43f7_eMEAY-f5zdIK76LrG3KBR2ikeCuJ7ImFHvZkslRiFCenb8CDuKYrCuOEz8GBiyhyo-2QPKmEq7lJYOQMG7Y8zoA3mouC1tO6kdTM24-q11tX9pNH1ZAq04HLeZPUs51aclnxiePWgGqFyYYa6VhboSdJ6AF3BoskIOQ6iOCVB2iDBqQdLoGF6nCbhIAmdTpI0XXvwtl2Km0K0_g-gnrtt?type=png)
+[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUU2P0zAU_CvW28OyUlI5X07sA5fukQMnDtR7cBOnjZTGleuIlqrSAgcOReLC3pD2irQSLGhB4vdUZcu_IE6yFYI5zZvnmednryFVmQQGruvyKlVVXkwYr1CD5Wo4Fdr0lcViql6cCyOeiLEsGTK6ll3TTOVMPhO6EONSLv5y_J9hMS-VGapS6aeilMZIhk5PonGYhpGDToRP0jy3xKME44bINPJwesqr9o68Wq5SG9qPLkwpEYfd67vdm-v99fb-Zrv_eHv49HX_-efvt-8fHd79ONtdvjp8-3L48N0K93c3Zxz6HV2xLBZoxMHHfszBQS1LjoweWcDhojOtOhOH_eX219UtB4SR6z5GAe7QnRoLjUZJpzjIIw_MD__V-tiyqOQojP2-iSnpWRSFpH2JJKLWfAEOTHSRAbM_4MBM6pmwJaxtEof2OziwhmYyF3Vp7L6bxjYX1XOlZg9OrerJFFguykVT1fNMGHleiIkWs6OqZZVJPVR1ZYCRkLYhwNawBEaTAQ38IPFC6uMwwIkDK2CeHw2CBHseTZqeT-J448DLdiwexDSJ45BElAQBCUi0-QPvqcQk?type=png)
+
+また、統計開始時からの週あたりのゴミ排出量、焼却量の推移は以下の通りです。
 
 ```mermaid
 
@@ -213,24 +211,22 @@ config:
 
 xychart
     title "週排出量(黄)、週焼却量(橙)"
-    x-axis ["2027", "2028", "2029"]
-    y-axis "個数" 0 --> 200000
-    line[105888, 109984, 150240]
-    line[0, 0, 60000]
+    x-axis ["2027", "2028", "2029", "2030", "2031"]
+    y-axis "個数" 0 --> 400000
+    line[105888, 109984, 150240, 179264, 173008]
+    line[0, 0, 60000, 336000, 336000]
 
 ```
 
 <!--グラフを更新したら画像の更新も忘れずに！-->
-[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUM1qGzEQfhUxOTiB3aBVd22tDrk4xxxy6qGRD8qubC9oJSNriV1jcCCQQ2gLhRzyCLm10FPbtyl28VtEWjsmkEGgb2a-b_4WUJhSAoM4jrkujB5WI8Y18jab98fCur0XbDo2N-fCiQtxLRVDzjZyl3RjWcuPwlbiWsnpG8X7GsEmyri-UcZeCiWdkwx1jkSSdzGO0JEssgQXHa7bibiezYtQYt-ockoiDtvVz83X7-v739v7b8fbP3cn_1a3Pvb_7u_6y68Q2zw_nXDYLxKLWTVFVxwIJj0OEWoRPaCcw2BHne-oHNarh83jDw4Iozg-QwQH23FUpeVVgjNKaYQSnOc09X-GSYoHbxh-F_-6QTeACEa2KoGFk0VQS1uL4MIiCDi09-PAPCzlUDTKhdmXXjYR-pMx9avSmmY0BjYUauq9ZlIKJ88rMbKiPkSt1KW0fdNoByxN2hrAFjAD9oGQ0yTrUpJQDwmmEcw9h57SXpr30hAnPUqXEXxum2KfyJYvAq-sCg?type=png)
-
-現在では統計データの蓄積が不十分なため、排出量が算術級数的に増加した場合、幾何級数的に増加した場合、どちらにおいても2029年9月頃にゴミ埋立地が満杯になると考えられます。
+[グラフをご覧になれない環境の方向け画像リンク](https://mermaid.ink/img/pako:eNplUE1rGzEQ_StickgDu0baT0mHXpxjDj310MgHZVe2F3ZXRtYSu8bgQiCH0hYKOfQn9NZCTmn_TbGL_0WktRMCeQj05s28GY1WUOhSAYcwDEVb6HZcTbhokcNiOZxKY4-Rx3yqr8-llRfyStUcWdOpQ9JOVaPeS1PJq1rNXzhe9_CY1doOda3NO1kraxVHpyeSsAzjAJ2oIiW4OBVt_yLRLpaFb3EcVNlaIQH7ze_d1-_b24f97bc3-z83Z_82n5z2_-bv9su913Y_f5wJOC4SykU1R5cCIhzlAgLUM_rM2BOLsYDRwbQ8mARsN593d78EIIzC8C1KsMehpq5adUlwSikNEMGM0cTdKY4StwjJWZQloxeVTnQn8_4AxbEnIwhgYqoSuP_MABplGulDWHmjgP5nBXBHSzWWXW39Vmtnm8n2g9bNk9PobjIFPpb13EXdrJRWnVdyYmTzrBrVlsoMddda4FlG-ibAV7AAzuiAxVFMScIinMSYBrAETqJ0EFNMCKMuF2V5vg7gYz8WD3JG8zzJUpa5ZeIsXT8C2Ru0OA?type=png)
 
 ### 交通
-計画区域においては平均交通量が95%、基本的に良好な交通環境を維持していますが、澳北IC及び北部工業区沿いでは渋滞が散見され、また澳北ICから南下する路線においても渋滞の兆候が見られます。
+計画区域においては平均交通量が89%、基本的に良好な交通環境を維持しており、深刻な渋滞は発生していないものの、循環型林業特区周辺、澳北市立中部図書館周辺、竜骨側東岸において渋滞の兆候が見られます。
 
 |交通情報|
 |:-:|
-| ![Traffic.jpg](../Image/Traffic.jpg)<br>![Traffic_Legend.jpg](../Image/Traffic_Legend.jpg) |
+| ![Traffic_2ndMP.jpg](../Image/Traffic_2ndMP.jpg)<br>![Traffic_Legend.jpg](../Image/Traffic_Legend.jpg) |
 
 ## 計画構想
 ### 課題と対策
