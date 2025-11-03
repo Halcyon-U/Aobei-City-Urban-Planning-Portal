@@ -8,7 +8,7 @@
 
 |#4|#5|#6|
 |:-:|:-:|:-:|
-|[![【統計ありて】Cities: Skylines【計画あり】#4](./Image/12_銀丹市糧食ハム社_【統計ありて】CitiesSkylines【計画あり】4.png)](https://youtube.com/live/UzMfOMpFjEg?feature=share)|[![【課題を】Cities: Skylines【探せ】 #2](./Image/13_銀丹市糧食ハム社_【新市街】CitiesSkylines【開発に向けて】5.png)](https://youtube.com/live/VrahmkXDrL8?feature=share)|Coming soon...|
+|[![【統計ありて】Cities: Skylines【計画あり】#4](./Image/12_銀丹市糧食ハム社_【統計ありて】CitiesSkylines【計画あり】_4.png)](https://youtube.com/live/UzMfOMpFjEg?feature=share)|[![【課題を】Cities: Skylines【探せ】 #2](./Image/13_銀丹市糧食ハム社_【新市街】CitiesSkylines【開発に向けて】_5.png)](https://youtube.com/live/VrahmkXDrL8?feature=share)|[![【第2次主要計画】Cities: Skylines【公布】#4](Image\14_銀丹市糧食ハム社_【第2次主要計画】CitiesSkylines【公布】_6.png)](https://www.youtube.com/watch?v=bxbL-M6ke2o)|
 
 ## 現在施行中の都市計画
 - [澳北市都市計画第2次主要計画](/Document/2nd_Master_Planning.md)
